@@ -1,3 +1,9 @@
 [submodule "themes/raditian-free-hugo-theme"]
 	path = themes/raditian-free-hugo-theme
 	url = https://github.com/chewing-git/raditian-free-hugo-theme
+[submodule "yenada1.github.io"]
+	path = yenada1.github.io
+	url = https://github.com/yenada1/yenada1.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/yenada1/yenada1.github.io
