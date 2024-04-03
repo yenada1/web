@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | [이름]" # TODO: 이름 추가
+    title: "Home | Yena" # TODO: 이름 추가
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m [이름]" # TODO: 이름 추가
+  title: "Hello, I’m Yena" # TODO: 이름 추가
   subtitle: "Developer"
-  description: "[소개]" # TODO: 소개 추가
+  description: "Introduction" # TODO: 소개 추가
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
